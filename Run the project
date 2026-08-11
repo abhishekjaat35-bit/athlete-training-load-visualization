@@ -1,0 +1,10 @@
+In your terminal:
+
+python training_load_visualization.py
+
+
+The program will create three charts.
+
+athlete_total_training_load.png
+daily_training_load.png
+session_type_training_load.png
