@@ -1,6 +1,5 @@
 # ==========================================
 # Athlete Training Load Visualization
-# Day 9 - Sports Data Analytics
 # Author: Abhishek Tomar
 # ==========================================
 
