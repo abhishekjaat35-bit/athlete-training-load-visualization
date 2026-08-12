@@ -1,0 +1,30 @@
+Chart 1 — Athlete total load
+Expected ranking:
+
+Vikram  █████████████████████
+Rahul   ██████████████████
+Arjun   ████████████████
+
+Vikram has the highest accumulated load in this synthetic dataset.
+
+
+Chart 2 — Daily load
+
+Aug 3 → 1585 AU
+Aug 4 → 1405 AU
+Aug 5 →  345 AU
+Aug 6 → 1615 AU
+Aug 7 → 1925 AU
+
+
+Chart 3 — Session type
+
+From Day 8:
+
+Strength      3510 AU
+Conditioning  1615 AU
+Speed         1405 AU
+Recovery       345 AU
+
+You can visually see the recovery day and subsequent increase in team load.
+
